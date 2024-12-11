@@ -1,5 +1,4 @@
 # Web-Novel MeteorX
-# Web-Novel
 
 Web-Novel is an innovative platform for reading and purchasing novels online. This project aims to enhance the experience of book enthusiasts by providing a convenient and interactive space for discovering and enjoying stories.
 
