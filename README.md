@@ -22,7 +22,7 @@ Web-Novel is an innovative platform for reading and purchasing novels online. Th
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Web-Novel.git
+   git clone https://github.com/ChrisPheraphon/Web-Novel.git
 Start XAMPP and place the project files in the htdocs directory.
 Import the database:
 Open phpMyAdmin and create a new database (e.g., web_novel).
